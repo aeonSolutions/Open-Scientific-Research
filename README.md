@@ -29,6 +29,10 @@ These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices
 
 - [A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-)
 
+
+**A Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware ElectronicsA Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware Electronics** accpeted in the Journal of Structural Health Monitoring (5yr Impact factor of 5.9) · Mar 25, 2023
+
+
 The self-sensing ability of materials, in particular carbon fiber polymer composites (SSCFPC), is a must-have requirement when designing a structural monitoring
 network for remote assessment of structural serviceability. This work presents a study using an Artificial Deep Neural Network (ADNN) where is evaluated the electrical resistance (R) output of specimens subjected to an unchanged deformation state of 2,86% strain for prolonged periods of time. 
 
