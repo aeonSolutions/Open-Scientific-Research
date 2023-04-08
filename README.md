@@ -3,7 +3,21 @@
 
 
 - [Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository)
+
+This Sci. research presents an innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed smart DAQ device prototype has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse.
+
+These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices and are able to connect with each other using swarm intelligence. The main purpose is to increase data integrity and trustworthiness among DAQ devices connected and on all experimental data collected during an experiment or research project.
+
+<br>
+
 - [A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-)
+
+The self-sensing ability of materials, in particular carbon fiber polymer composites (SSCFPC), is a must-have requirement when designing a structural monitoring
+network for remote assessment of structural serviceability. This work presents a study using an Artificial Deep Neural Network (ADNN) where is evaluated the electrical resistance (R) output of specimens subjected to an unchanged deformation state of 2,86% strain for prolonged periods of time. 
+
+Six ADNN architectures are evaluated with varying numbers of neurons on pre-defined hidden layers, sharing the same four data inputs and one output. The dataset is based on 3,276 data points collected during the experimental campaign of an innovative electrode design embedded in SSCFPC specimens. The eﬀect of the number of iterations and the architecture of the neural network is investigated in proposed ADNN models. Simple moving average (SMA), and moving Standard Deviation, are determined and plotted in terms of z-score to assist in performance evaluation of proposed ADNN models. 
+
+The optimal ADNN architecture is found among six proposed architectures and for each of the four SSCFPC mixtures. Results show the proposed model architectures are able to predict values of R with greater accuracy than traditional regression mathematical methods when traditional statistical coefficients are used. However, when analyzing data in a time-series manner results show further research is needed to achieve optimal accuracy results. The analysis presented focused on the structural monitoring network infrastructure and hardware electronics compatibility for further development of this type of SSCFPC as a self-sensing composite material with ability of automatic calibration and suitable for real-time data acquisition and artificial intelligence modeling.
 
 <br />
 <br />
