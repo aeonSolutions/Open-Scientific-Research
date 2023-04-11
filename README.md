@@ -42,6 +42,9 @@ Six ADNN architectures are evaluated with varying numbers of neurons on pre-defi
 
 The optimal ADNN architecture is found among six proposed architectures and for each of the four SSCFPC mixtures. Results show the proposed model architectures are able to predict values of R with greater accuracy than traditional regression mathematical methods when traditional statistical coefficients are used. However, when analyzing data in a time-series manner results show further research is needed to achieve optimal accuracy results. The analysis presented focused on the structural monitoring network infrastructure and hardware electronics compatibility for further development of this type of SSCFPC as a self-sensing composite material with ability of automatic calibration and suitable for real-time data acquisition and artificial intelligence modeling.
 
+
+The experimental datasets and (early) analysis files can be found on this dataverse: https://dataverse.harvard.edu/dataverse/selfSensingCarbonfiberComposites#  
+
 <br />
 <br />
 
