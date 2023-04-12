@@ -18,8 +18,10 @@
 
 # Open Science Research Projects
 
+<br>
+
 ### [Dataverse API C library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
-___________________________________________________________________________________________________
+
 
 The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
 
@@ -32,7 +34,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 <br>
 
 ### [Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository) (ongoing)
-___________________________________________________________________________________________________
+
 
 This Sci. research presents an innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed smart DAQ device prototype has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse.
 
@@ -41,7 +43,6 @@ These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices
 <br>
 
 ### [A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-)
-___________________________________________________________________________________________________
 
 
 **A Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware ElectronicsA Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware Electronics** 
