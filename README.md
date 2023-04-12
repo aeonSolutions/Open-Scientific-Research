@@ -53,7 +53,7 @@ These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices
 
 **A Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware ElectronicsA Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware Electronics** 
 
-*accepted for publication in the Journal of [Structural Health Monitoring](https://journals.sagepub.com/home/shm) (5yr Impact factor of 5.9) · Mar 25, 2023*
+*accepted for publication in the Journal of [Structural Health Monitoring](https://journals.sagepub.com/home/shm) (5yr Impact factor of 5.9) · Mar 24, 2023*
 
 
 The self-sensing ability of materials, in particular carbon fiber polymer composites (SSCFPC), is a must-have requirement when designing a structural monitoring
