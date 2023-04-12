@@ -1,4 +1,4 @@
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Open Scientific Research Projects](https://github.com/aeonSolutions/Open-Scientific-Research)
+ [Open Science Research Projects](https://github.com/aeonSolutions/Open-Scientific-Research)
 
 <br>
 
