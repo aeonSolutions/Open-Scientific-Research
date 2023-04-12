@@ -64,6 +64,10 @@ The optimal ADNN architecture is found among six proposed architectures and for 
 
 The experimental datasets and (early) analysis files can be found on this dataverse: https://dataverse.harvard.edu/dataverse/selfSensingCarbonfiberComposites#  
 
+<p align="center">
+<img src="https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/blob/main/Designs/pcb_front.png" height="150">
+</p>
+
 <br />
 <br />
 
