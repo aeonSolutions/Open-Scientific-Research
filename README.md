@@ -73,7 +73,7 @@ The experimental datasets and (early) analysis files can be found on this datave
 <br />
 <br />
 
-### [Scientific Research Projects](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md)
+### [Open Software for Scientific Research](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects)
 
