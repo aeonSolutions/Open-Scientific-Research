@@ -20,18 +20,13 @@
 
 <br>
 
-**Get a Notification on every PCB update**
-
-| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
-|-------------|------|
-
-**Suport**
-
-No one likes to work "for free". If you like my work, and use it, please consider supporting it. Links at the top, bottom and right side pane. Thank you.
-
-<br>
-
 # Open Science Research Projects
+
+To View my open science showcase page on Linkedin, click [here](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true). 
+
+To view my published scientific works in international journals , click [here](https://orcid.org/0000-0002-5910-5179) to goto my ORCID profile page.
+
+To view my ongoing scientific writing , click [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5063472) to goto to my Elsevier's SSRN profile page.
 
 <br>
 
@@ -113,6 +108,16 @@ ________________________________________________________________________________
 
 </p>
 
+**Get a Notification on every PCB update**
+
+| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
+|-------------|------|
+
+**Suport**
+
+No one likes to work "for free". If you like my work, and use it, please consider supporting it. Links at the top, bottom and right side pane. Thank you.
+
+<br>
 
 <br />
 <br />
