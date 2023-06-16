@@ -34,7 +34,10 @@ No one likes to work "for free". If you like my work, and use it, please conside
 # Open Science Research Projects
 
 <br>
+
 ### [Rammed Earth Project](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/tree/main)
+
+I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embbeded sensors into constrution materials like this one. 
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers_sensor_testitng.jpg"  height="200">
