@@ -34,6 +34,13 @@ No one likes to work "for free". If you like my work, and use it, please conside
 # Open Science Research Projects
 
 <br>
+### [Rammed Earth Project](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/tree/main)
+
+<p align="center">
+  <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers_sensor_testitng.jpg"  height="200">
+</p>
+
+<br>
 
 ###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library)  [Dataverse API C library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
 
