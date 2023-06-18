@@ -16,7 +16,7 @@
    <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/open_science_lab.png" height="300">
 </p>
 
- [Open Science Research Projects](https://github.com/aeonSolutions/Open-Scientific-Research) >> Main
+ [Open Science Research Projects](https://github.com/aeonSolutions/Open-Scientific-Research) >> Main 
 
 <br>
 
@@ -27,9 +27,11 @@
 | <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/analytics.png" width="250"> | To View my open science showcase page on Linkedin, click [here](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true).  <br> To view my published scientific works in international journals , click [here](https://orcid.org/0000-0002-5910-5179) to goto my ORCID profile page. <br> To view my ongoing scientific writing , click [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5063472) to goto to my Elsevier's SSRN profile page. |
 |-------------|:------|
 
+ [Vist the showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true)
+
 <br>
 
-### [Rammed Earth Project](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki)
+## [Rammed Earth Project](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki)
 
 I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embbeded sensors into constrution materials like this one. 
 
@@ -39,7 +41,7 @@ I've started preliminary works on my future project in the area of "rammed earth
 
 <br>
 
-###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library)  [Dataverse API C library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
+##  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library)  [Dataverse API C library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
 
 
 The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
@@ -52,7 +54,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
   
 <br>
 
-### [Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository) (ongoing)
+## [Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository) (ongoing)
 
 
 This Sci. research presents an innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed smart DAQ device prototype has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse.
@@ -65,7 +67,7 @@ These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices
 
 <br>
 
-### [A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-)
+## [A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-)
 
 
 **A Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware ElectronicsA Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware Electronics** 
@@ -90,7 +92,7 @@ The experimental datasets and (early) analysis files can be found on this datave
 <br />
 <br />
 
-###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects) [Open Software for Scientific Research](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md)
+##  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects) [Open Software for Scientific Research](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md)
 
 This repo contains all software solutions coded while as a scientific researcher at University of Minho (Portugal) between 2005 and 2009
 
