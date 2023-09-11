@@ -29,6 +29,11 @@
 
  [Vist the showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true)
 
+**Suport**
+
+AeonLabs invests time and resources providing open source code and open hardware electronics, please support AeonLabs and open-source code & hardware by purchasing products from AeonLabs!
+Links at the top, bottom and right side pane. Thank you.
+
 <br>
 
 ## [4D Science Project - beyond static research communications](https://github.com/aeonSolutions/Aeonlabs-4D-Science-Project---beyond-static-research-communications/tree/main)
