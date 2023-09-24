@@ -37,6 +37,9 @@ Links at the top, bottom and right side pane. Thank you.
 <br>
 
 ## [4D Science Project - beyond static research communications](https://github.com/aeonSolutions/Aeonlabs-4D-Science-Project---beyond-static-research-communications/tree/main)
+
+The main idea foe this project is to develop a work environment using Unreal Engine 5.x where is possible to work experimental data beyond a 2D spread sheet , in particular time dependent experimental data that requires motion graphics and animated chart plots.
+
 (soon)
 
 <br>
