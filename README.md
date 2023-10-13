@@ -20,7 +20,11 @@
 
 <br>
 
-# Open Science Research Projects
+# Open Science Research
+
+Open science is a transformative approach to research and knowledge dissemination that emphasizes transparency, collaboration, and accessibility. It encourages scientists and researchers to make their work, including data, methodologies, and findings, openly available to the public and the global scientific community. This not only fosters greater trust in the scientific process but also accelerates the pace of discovery by enabling others to build upon and validate existing research. Open science promotes interdisciplinary collaboration and reduces duplication of efforts, ultimately leading to more robust and reproducible scientific results. By breaking down barriers to access, open science democratizes knowledge, making it available to a wider audience, thus benefiting society as a whole. It represents a significant shift in the way science is conducted and shared, ushering in an era of more inclusive and accountable research.
+
+View a List of laboratory test procedures on the WIKI of this page. Link on the menu above and [here](https://github.com/aeonSolutions/Open-Scientific-Research/wiki).
 
 <br>
 
@@ -33,6 +37,11 @@
 
 AeonLabs invests time and resources providing open source code and open hardware electronics, please support AeonLabs and open-source code & hardware by purchasing products from AeonLabs!
 Links at the top, bottom and right side pane. Thank you.
+
+<br>
+<br>
+
+# Planned Projects
 
 <br>
 
