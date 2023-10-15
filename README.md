@@ -55,7 +55,7 @@ The main idea foe this project is to develop a work environment using Unreal Eng
 
 ## [Smart Asphalt Roads Project](https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/tree/main)
 
-I've started preliminary work on my future project in the area of "self-sensing asphalt" for smart roads and highways. The very first task is to understand embedded wireless radio transmission into the surface of the asphalt road itself. 
+I've started preliminary work on my future project in the area of "self-sensing asphalt" for smart roads and highways. The very first task is to understand embedded wireless radio transmission into the surface of the asphalt road itself. This project is scheduled to resume next month of December, 2023.
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/blob/main/concept%20prototypes/concept%20prototype%20mockup%20with%20a%20UHF%20RFID%20noted%20tag.jpg"  height="200">
@@ -65,7 +65,7 @@ I've started preliminary work on my future project in the area of "self-sensing 
 
 ## [Rammed Earth Project](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki)
 
-I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embedded sensors in construction materials like this one. 
+I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embedded sensors in construction materials like this one. This project is scheduled to resume next month of December, 2023.
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers_sensor_testitng.jpg"  height="200">
