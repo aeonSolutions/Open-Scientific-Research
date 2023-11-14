@@ -128,7 +128,20 @@ continue reading [here ...](https://github.com/aeonSolutions/openScience-Smart-D
 ##  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects) [Open Software for Scientific Research](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md)
 several projects completed. <br>
 
-This repo contains all software solutions coded while as a scientific researcher at University of Minho (Portugal) between 2003 and 2009
+This repo contains all software solutions coded while as a scientific researcher at University of Minho (Portugal) between 2003 and 2009 <br>
+■ Duracon - Service Life of Reinforced Concrete Structures; <br>
+■ ECOBuild; <br>
+■ Expert Automation Files: <br>
+ - Calculation of a mortar compostion;
+ - Sand Granulometry;
+ - Geopolimers;
+ - Faury Method;
+ - Compressive Strenght;
+
+■ FissurMax; <br>
+■ FissurMix; <br>
+■ Temperus; <br>
+■ Modulus; <br>
 
 <br />
 <br />
