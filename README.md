@@ -50,14 +50,14 @@ Links at the top, bottom and right side pane. Thank you.
 <br>
 
 ## [4D Science Project - beyond static research communications](https://github.com/aeonSolutions/Aeonlabs-4D-Science-Project---beyond-static-research-communications/tree/main)
+project not yet started. <br>
 
 The main idea foe this project is to develop a work environment using Unreal Engine 5.x where is possible to work experimental data beyond a 2D spread sheet , in particular time dependent experimental data that requires motion graphics and animated chart plots.
-
-(soon)
 
 <br>
 
 ## [Smart Asphalt Roads Project](https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/tree/main)
+project started. <br>
 
 I've started preliminary work on my future project in the area of "self-sensing asphalt" for smart roads and highways. The very first task is to understand embedded wireless radio transmission into the surface of the asphalt road itself. This project is scheduled to resume next month of December, 2023.
 
@@ -67,12 +67,26 @@ I've started preliminary work on my future project in the area of "self-sensing 
 
 <br>
 
-## [Rammed Earth Project](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki)
+## [Rammed Earth Project](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki) 
+project started. <br>
 
 I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embedded sensors in construction materials like this one. This project is scheduled to resume next month of December, 2023.
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers_sensor_testitng.jpg"  height="200">
+</p>
+
+<br>
+
+## [Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository)
+ongoing project. <br>
+
+This Sci. research presents an innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed smart DAQ device prototype has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse.
+
+These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices and are able to connect with each other using swarm intelligence. The main purpose is to increase data integrity and trustworthiness among DAQ devices connected and on all experimental data collected during an experiment or research project.
+
+<p align="center">
+  <img height="200" src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/Design/12bitSmartDAQ2023january_2.jpeg">
 </p>
 
 <br>
@@ -90,21 +104,8 @@ The Dataverse Project is an open-source web application to share, preserve, cite
   
 <br>
 
-## [Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository) (ongoing)
-
-
-This Sci. research presents an innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed smart DAQ device prototype has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse.
-
-These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices and are able to connect with each other using swarm intelligence. The main purpose is to increase data integrity and trustworthiness among DAQ devices connected and on all experimental data collected during an experiment or research project.
-
-<p align="center">
-  <img height="200" src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/Design/12bitSmartDAQ2023january_2.jpeg">
-</p>
-
-<br>
-
 ## [A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-)
-
+project completed. <br>
 
 **A Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware ElectronicsA Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware Electronics** 
 
@@ -125,32 +126,20 @@ continue reading [here ...](https://github.com/aeonSolutions/openScience-Smart-D
 <br />
 
 ##  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects) [Open Software for Scientific Research](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md)
+several projects completed. <br>
 
-This repo contains all software solutions coded while as a scientific researcher at University of Minho (Portugal) between 2005 and 2009
+This repo contains all software solutions coded while as a scientific researcher at University of Minho (Portugal) between 2003 and 2009
 
 <br />
 <br />
 
-
-______________________________________________________________________________________________________________________________
-
-### PCB Conceptualization and Design
-<p align="center">
- 
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/saturnPCBdesignLogo.png" alt="" height="60">](https://saturnpcb.com) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/kicad_logo_small.png" alt="" height="60">](https://www.kicad.org) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/AppCAD.jpg" alt="" height="60">](https://www.broadcom.com/appcad)
-
-</p>
+#
 
 **Get a Notification on every PCB update**
 
 | [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
 |-------------|------|
 
-**Suport**
-
-No one likes to work "for free". If you like my work, and use it, please consider supporting it. Links at the top, bottom and right side pane. Thank you.
-
-<br>
 
 <br />
 <br />
@@ -180,8 +169,6 @@ The PCB Desgin Files i provide here for anyone to use are free. If you like this
 <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Designs/bmc_qr.png" height="130">
 </p>
 
-
-
 <br />
 
 ### Make a donation on Paypal
@@ -189,14 +176,9 @@ Make a donation on paypal and get a TAX refund*.
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
 
-<br />
-<br />
 
-______________________________________________________________________________________________________________________________
+#
+
 ### License
 
 Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
-
-
-
-______________________________________________________________________________________________________________________________
