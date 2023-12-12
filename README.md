@@ -21,7 +21,7 @@
 
 <div align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/Open-Scientific-Research?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-Last update 14-11-2023
+Last update 12-12-2023
 </div>
 
 <br>
@@ -174,25 +174,37 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
-<p align+"left">
-<a href="https://www.buymeacoffee.com/migueltomas">
-   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" />
- </a>
-<br>
-<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Designs/bmc_qr.png" height="130">
+<p align="center">
+    <a href="https://www.buymeacoffee.com/migueltomas">
+        <img height="35" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
+    </a>
 </p>
 
-<br />
 
-### Make a donation on Paypal
-Make a donation on paypal and get a TAX refund*.
+### Make a donation on PayPal
+Make a donation on PayPal and get a TAX refund*.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
+<p align="center">
+    <a href="http://paypal.me/mtpsilva">
+        <img height="35" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png">
+    </a>
+</p>
 
+### Support all these open hardware projects and become a GitHub sponsor  
+Liked any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
-#
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
+
+# 
 
 ### License
 
