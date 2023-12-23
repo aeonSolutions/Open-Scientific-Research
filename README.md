@@ -28,20 +28,35 @@ Last update 23-12-2023
 
 # Open Science Research
 
-Open science is a transformative approach to research and knowledge dissemination that emphasizes transparency, collaboration, and accessibility. It encourages scientists and researchers to make their work, including data, methodologies, and findings, openly available to the public and the global scientific community. This not only fosters greater trust in the scientific process but also accelerates the pace of discovery by enabling others to build upon and validate existing research. Open science promotes interdisciplinary collaboration and reduces duplication of efforts, ultimately leading to more robust and reproducible scientific results. By breaking down barriers to access, open science democratizes knowledge, making it available to a wider audience, thus benefiting society as a whole. It represents a significant shift in the way science is conducted and shared, ushering in an era of more inclusive and accountable research.
+Open science is a transformative approach to research and knowledge dissemination that emphasizes transparency, collaboration, and accessibility. It encourages scientists and researchers to make their work, including data, methodologies, and findings, openly available to the public and the global scientific community. This not only fosters greater trust in the scientific process but also accelerates the pace of discovery by enabling others to build upon and validate existing research. Open science promotes interdisciplinary collaboration and reduces duplication of efforts, ultimately leading to more robust and reproducible scientific results. By breaking down barriers to access, open science democratizes knowledge, making it available to a wider audience, thus benefiting society as a whole. It represents a significant shift in the way science is conducted and shared, ushering in an era of more inclusive and accountable research. <sub>(*source: chat.openai.com*)</sub>
 
+[Vist my open science showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true) <br>
 View a List of laboratory test procedures on the WIKI of this page. Link on the menu above and [here](https://github.com/aeonSolutions/Open-Scientific-Research/wiki).
 
 <br>
 
-| <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/analytics.png" width="250"> | To View my open experimental data repository on Harvard's dataverse cloud server, click [here](https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse).  <br> To view my published scientific works in international journals , click [here](https://orcid.org/0000-0002-5910-5179) to goto my ORCID profile page. <br> To view my ongoing scientific writing , click [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5063472) to goto to my Elsevier's SSRN profile page. |
-|-------------|:------|
+### Peer reviews
+**34 peer review records of 31 manuscripts**  &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID profile](https://orcid.org/my-orcid?orcid=0000-0002-5910-5179) ] [ [Scopus profile ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
 
- [Vist the showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true)
+2023 <br>
+■ Invited to be a reviewer for the Physica Scripta J. 2.9 I.F. <br>
+"Distributed Fiber Optic Acoustic Sensing System intrusion full event recognition based on 1-D MFEWnet" <br>
+■ Invited to be a reviewer for the Engineering Research Express J. 1.7 I.F. <br>
+"Intelligent Passive Infrared Sensor-based Learning Vector Quantization for Human Detection" <br>
+■ Invited to be a reviewer for the Journal Modelling and Simulation in Materials Science and Engineering <br>
+"A machine learning based prediction of elasto-plastic response of a short fiber reinforced polymer (SFRP) composite" <br>
+■ Invited to be a reviewer for the 18th IBPSA International Conference and Exhibition Building Simulation 2023 Shanghai, China ( https://bs2023.org ) <br>
 
-# Scientific Communications 
-[Click here](https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/scientific_writing/currently_working/readme.md) to view a list of ongoing scientific communications ( "paper") Miguel Tomas is currently working on. To view all published coomunications and documents [click here]().
 
+## Scientific Communications
+**6 documents published in international journals** &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID profile](https://orcid.org/my-orcid?orcid=0000-0002-5910-5179) ] [ [Scopus profile ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ]
+
+&nbsp; [Click here](https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/scientific_writing/currently_working/readme.md) to view a list of ongoing scientific communications ( "paper") here on Github, Miguel Tomas is currently working on. To read my ongoing scientific writing published at  Elsevier's SSRN, click [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5063472). <br>
+
+&nbsp; To read a short summary here on Github, of all published coomunications and documents to this date [click here](https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/scientific_writing/published/readme.md). To read any of my published scientific works in international journals, goto my ORCID profile or web of science profile or Scopus profile. You can find the links above. <br>
+
+&nbsp; To View my open experimental data repository on Harvard's dataverse cloud server, click [here](https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse).  <br> 
+ 
 <br>
 
 **Suport**
@@ -50,10 +65,9 @@ AeonLabs invests time and resources providing open source code and open hardware
 Links at the top, bottom and right side pane. Thank you.
 
 <br>
-<br>
 
 # Planned Projects
-
+Scientific project planning is a vital stage in the research process, requiring careful consideration and organization. It involves defining the project's objectives, specifying research questions, and outlining the experimental or investigative approach. Researchers meticulously plan methodologies, taking into account available resources, budget constraints, and ethical considerations. Establishing clear timelines and milestones ensures progress tracking, while a comprehensive literature review helps position the project within the broader scientific context. Effective communication among team members is crucial, fostering collaboration and a shared understanding of project goals. In essence, scientific project planning sets the groundwork for a systematic and well-executed research endeavor, enhancing the likelihood of producing valuable and meaningful results. <sub>(*source: chat.openai.com*)</sub>
 <br>
 
 ## [4D Science Project - beyond static research communications](https://github.com/aeonSolutions/Aeonlabs-4D-Science-Project---beyond-static-research-communications/tree/main)
