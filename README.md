@@ -71,14 +71,14 @@ Scientific project planning is a vital stage in the research process, requiring 
 <br>
 
 ## [4D Science Project - beyond static research communications](https://github.com/aeonSolutions/Aeonlabs-4D-Science-Project---beyond-static-research-communications/tree/main)
-project not yet started. <br>
+<sup>**Status:** Project being planned </sup> <br>
 
 The main idea foe this project is to develop a work environment using Unreal Engine 5.x where is possible to work experimental data beyond a 2D spread sheet , in particular time dependent experimental data that requires motion graphics and animated chart plots.
 
 <br>
 
 ## [Smart Asphalt Roads Project](https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/tree/main)
-project started. <br>
+<sup>**Status:** Project started </sup> <br>
 
 I've started preliminary work on my future project in the area of "self-sensing asphalt" for smart roads and highways. The very first task is to understand embedded wireless radio transmission into the surface of the asphalt road itself. This project is scheduled to resume next month of December, 2023.
 
@@ -89,7 +89,7 @@ I've started preliminary work on my future project in the area of "self-sensing 
 <br>
 
 ## [Rammed Earth Project](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki) 
-project started. <br>
+<sup>**Status:** Project started </sup> <br>
 
 I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embedded sensors in construction materials like this one. This project is scheduled to resume next month of December, 2023.
 
@@ -100,7 +100,7 @@ I've started preliminary works on my future project in the area of "rammed earth
 <br>
 
 ## [Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository)
-ongoing project. <br>
+<sup>**Status:** Ongoing Project </sup> <br>
 
 This Sci. research presents an innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed smart DAQ device prototype has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse.
 
@@ -126,7 +126,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 <br>
 
 ## [A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-)
-project completed. <br>
+<sup>**Status:** Project Completed </sup> <br>
 
 **A Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware ElectronicsA Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware Electronics** 
 
@@ -147,7 +147,7 @@ continue reading [here ...](https://github.com/aeonSolutions/openScience-Smart-D
 <br />
 
 ##  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects) [Open Software for Scientific Research](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md)
-several projects completed. <br>
+<sup>**Status:** Several Projects Completed </sup> <br>
 
 This repo contains all software solutions coded while as a scientific researcher at University of Minho (Portugal) between 2003 and 2009 <br>
 ■ Duracon - Service Life of Reinforced Concrete Structures; <br>
