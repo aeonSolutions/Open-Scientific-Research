@@ -1,3 +1,5 @@
+[open Scientific Research](https://github.com/aeonSolutions/Open-Scientific-Research/tree/main)  >> Scientific Writing  >> Published
+
 # A deep neural network for electrical resistance calibration of self-sensing carbon fiber polymer composites compatible with edge computing structural monitoring hardware electronics
 
 ## Miguel Tomás<sup>1*</sup>, Said Jalali<sup>2</sup>, Kiera Tabatha<sup>3</sup>
