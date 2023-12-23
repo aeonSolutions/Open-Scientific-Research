@@ -47,6 +47,7 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
 "A machine learning based prediction of elasto-plastic response of a short fiber reinforced polymer (SFRP) composite" <br>
 ■ Invited to be a reviewer for the 18th IBPSA International Conference and Exhibition Building Simulation 2023 Shanghai, China ( https://bs2023.org ) <br>
 
+<br>
 
 ## Scientific Communications
 **6 documents published in international journals** &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID profile](https://orcid.org/my-orcid?orcid=0000-0002-5910-5179) ] [ [Scopus profile ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ]
@@ -113,7 +114,7 @@ These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices
 <br>
 
 ##  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library)  [Dataverse API C++ library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
-
+<sup>**Status:** Ongoing Project </sup> <br>
 
 The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
 
