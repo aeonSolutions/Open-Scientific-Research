@@ -39,6 +39,11 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
 
  [Vist the showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true)
 
+# Scientific Communications 
+[Click here]() to view a list of ongoing scientific communications ( "paper") Miguel Tomas is currently working on. To view all published coomunications and documents [click here]().
+
+<br>
+
 **Suport**
 
 AeonLabs invests time and resources providing open source code and open hardware electronics, please support AeonLabs and open-source code & hardware by purchasing products from AeonLabs!
