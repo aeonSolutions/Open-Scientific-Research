@@ -36,7 +36,7 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
 <br>
 
 ### Peer reviews
-**34 peer review records of 31 manuscripts**  &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID profile](https://orcid.org/my-orcid?orcid=0000-0002-5910-5179) ] [ [Scopus profile ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
+**34 peer review records of 31 manuscripts**  &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID profile](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus profile ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
 
 2023 <br>
 ■ Invited to be a reviewer for the Physica Scripta J. 2.9 I.F. <br>
@@ -50,7 +50,7 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
 <br>
 
 ## Scientific Communications
-**6 documents published in international journals** &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID profile](https://orcid.org/my-orcid?orcid=0000-0002-5910-5179) ] [ [Scopus profile ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ]
+**6 documents published in international journals** &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID profile](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus profile ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ]
 
 &nbsp; [Click here](https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/scientific_writing/currently_working/readme.md) to view a list of ongoing scientific communications ( "paper") here on Github, Miguel Tomas is currently working on. To read my ongoing scientific writing published at  Elsevier's SSRN, click [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5063472). <br>
 
