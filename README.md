@@ -21,7 +21,7 @@
 
 <div align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/Open-Scientific-Research?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-Last update 12-12-2023
+Last update 23-12-2023
 </div>
 
 <br>
@@ -40,7 +40,7 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
  [Vist the showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true)
 
 # Scientific Communications 
-[Click here]() to view a list of ongoing scientific communications ( "paper") Miguel Tomas is currently working on. To view all published coomunications and documents [click here]().
+[Click here](https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/scientific_writing/currently_working/readme.md) to view a list of ongoing scientific communications ( "paper") Miguel Tomas is currently working on. To view all published coomunications and documents [click here]().
 
 <br>
 
