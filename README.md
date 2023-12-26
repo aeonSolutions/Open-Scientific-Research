@@ -21,7 +21,7 @@
 
 <div align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/Open-Scientific-Research?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-Last update 23-12-2023
+Last update 26-12-2023
 </div>
 
 <br>
@@ -125,6 +125,21 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 </p>
   
 <br>
+
+## [Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform)
+<sup>**Status:** Project Completed </sup> <br>
+
+*being peer reviwed for publication in a Journal*
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/raw/main/Designs/anroid_app.jpg" height="100">
+</p>
+
+Logistics with real-time management of work activities at a construction site, including building materials and human resources, is an innovation for micro and small enterprises starting up in the construction sector. Enterprises of this size are being run using traditional turn-of-the-century technology tools, namely, excel spreadsheets as data storage. This paper presents a case study of technology implementation at a startup enterprise in the Belgian construction sector between 2018 and mid-2020, and discusses the challenges needed to overcome during the period of digital transformation. A multi-environment logistics platform was designed and prototyped following human-centered design principles enabling the enterprise to move forward and improve work methodologies to work with real-time data. Results after 18 months demonstrated an increased efficiency in all work processes, with a reduction of losses in all aspects of work activities and improved control of production estimates and measurements 
+
+continue reading [here ...](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/tree/main)
+
+<br />
 
 ## [A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-)
 <sup>**Status:** Project Completed </sup> <br>
