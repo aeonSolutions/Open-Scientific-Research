@@ -100,6 +100,8 @@ I've started preliminary works on my future project in the area of "rammed earth
 
 <br>
 
+# Ongoing Projects
+
 ## [Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository)
 <sup>**Status:** Ongoing Project </sup> <br>
 
@@ -125,6 +127,8 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 </p>
   
 <br>
+
+# Completed Projects
 
 ## [Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform)
 <sup>**Status:** Project Completed </sup> <br>
