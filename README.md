@@ -133,7 +133,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 ## [Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform)
 <sup>**Status:** Project Completed </sup> <br>
 
-*being peer reviwed for publication in a Journal*
+*being peer reviewed for publication in a Journal*
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/raw/main/Designs/anroid_app.jpg" height="100">
