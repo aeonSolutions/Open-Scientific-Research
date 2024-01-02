@@ -21,7 +21,7 @@
 
 <div align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/Open-Scientific-Research?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-Last update 26-12-2023
+Last update 2-1-2024
 </div>
 
 <br>
@@ -145,12 +145,12 @@ continue reading [here ...](https://aeonsolutions.github.io/publications/human-c
 
 <br />
 
-## [A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-)
+## [A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites](https://aeonsolutions.github.io/publications/neural-network-self-sensing-carbon-fiber-composites)
 <sup>**Status:** Project Completed </sup> <br>
 
 **A Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware ElectronicsA Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware Electronics** 
 
-*accepted for publication in the Journal of [Structural Health Monitoring](https://journals.sagepub.com/home/shm) (5yr Impact factor of 5.9) · Mar 24, 2023*
+*published in the Journal of [Structural Health Monitoring](https://journals.sagepub.com/home/shm) (5yr Impact factor of 5.9) · Mar 24, 2023*
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/blob/main/Designs/pcb_front.png" height="100">
@@ -161,7 +161,7 @@ network for remote assessment of structural serviceability. This work presents a
 
 Six ADNN architectures are evaluated with varying numbers of neurons on pre-defined hidden layers, sharing the same four data inputs and one output. The dataset is based on 3,276 data points collected during the experimental campaign of an innovative electrode design embedded in SSCFPC specimens. The eﬀect of the number of iterations and the architecture of the neural network is investigated in proposed ADNN models. Simple moving average (SMA), and moving Standard Deviation, are determined and plotted in terms of z-score to assist in performance evaluation of proposed ADNN models. 
 
-continue reading [here ...](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-)
+continue reading [here ...](https://aeonsolutions.github.io/publications/neural-network-self-sensing-carbon-fiber-composites)
 
 <br />
 <br />
