@@ -130,7 +130,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 
 # Completed Projects
 
-## [Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform)
+## [Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector](https://aeonsolutions.github.io/publications/human-centered-logistics-construction)
 <sup>**Status:** Project Completed </sup> <br>
 
 *being peer reviewed for publication in a Journal*
@@ -141,7 +141,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 
 Logistics with real-time management of work activities at a construction site, including building materials and human resources, is an innovation for micro and small enterprises starting up in the construction sector. Enterprises of this size are being run using traditional turn-of-the-century technology tools, namely, excel spreadsheets as data storage. This paper presents a case study of technology implementation at a startup enterprise in the Belgian construction sector between 2018 and mid-2020, and discusses the challenges needed to overcome during the period of digital transformation. A multi-environment logistics platform was designed and prototyped following human-centered design principles enabling the enterprise to move forward and improve work methodologies to work with real-time data. Results after 18 months demonstrated an increased efficiency in all work processes, with a reduction of losses in all aspects of work activities and improved control of production estimates and measurements 
 
-continue reading [here ...](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/tree/main)
+continue reading [here ...](https://aeonsolutions.github.io/publications/human-centered-logistics-construction)
 
 <br />
 
