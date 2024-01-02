@@ -54,7 +54,7 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
 
 &nbsp; [Click here](https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/scientific_writing/currently_working/readme.md) to view a list of ongoing scientific communications ( "paper") here on Github, Miguel Tomas is currently working on. To read my ongoing scientific writing published at  Elsevier's SSRN, click [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5063472). <br>
 
-&nbsp; To read a short summary here on Github, of all published coomunications and documents to this date [click here](https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/scientific_writing/published/readme.md). To read any of my published scientific works in international journals, goto my ORCID profile or web of science profile or Scopus profile. You can find the links above. <br>
+&nbsp; To read any of my published scientific works in international journals to this date [click here](https://aeonsolutions.github.io/publications/index.html). <br>
 
 &nbsp; To View my open experimental data repository on Harvard's dataverse cloud server, click [here](https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse).  <br> 
  
