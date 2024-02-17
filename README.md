@@ -36,7 +36,7 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
 <br>
 
 ### Peer reviews
-**34 peer review records of 31 manuscripts**  <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
+**35 peer review records of 31 manuscripts**  <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
 
 2023 <br>
 ■ Invited to be a reviewer for the Physica Scripta J. 2.9 I.F. <br>
@@ -60,10 +60,19 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
  
 <br>
 
-**Suport**
 
-AeonLabs invests time and resources providing open source code and open hardware electronics, please support AeonLabs and open-source code & hardware by purchasing products from AeonLabs!
-Links at the top, bottom and right side pane. Thank you.
+### Sponsor Open Science
+AeonLabs invests time and resources providing open source code and open hardware electronics, please support purchasing Aeonlabs products!  or by becoming a GitHub sponsor. Starts with only $1 / 1€. Links at the top, bottom and right side pane.  <br>
+Thank you.
+
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
 
 <br>
 
