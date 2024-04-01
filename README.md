@@ -19,7 +19,7 @@
 
 <div align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/Open-Scientific-Research?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-Last update 17-2-2024
+Last update 01-04-2024
 </div>
 
 <br>
@@ -34,7 +34,7 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
 <br>
 
 ### Peer reviews
-**35 peer review records of 31 manuscripts**  <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
+**36 peer review records of 32 manuscripts**  <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
 
 2023 <br>
 ■ Invited to be a reviewer for the Physica Scripta J. 2.9 I.F. <br>
@@ -60,7 +60,7 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
 
 
 ### Sponsor Open Science [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-AeonLabs invests time and resources providing open source code and open hardware electronics, please support purchasing Aeonlabs products!  or by becoming a GitHub sponsor. Starts with only $1 / 1€. Links at the top, bottom and right side pane.  <br>
+AeonLabs invests time and resources in providing open-source code and open hardware electronics, please support purchasing Aeonlabs products!  or by becoming a GitHub sponsor. Starts with only $1 / 1€. Links at the top, bottom, and right side pane.  <br>
 Thank you.
 
 <p align="center">
@@ -81,14 +81,14 @@ Scientific project planning is a vital stage in the research process, requiring 
 ## [4D Science Project - beyond static research communications](https://github.com/aeonSolutions/Aeonlabs-4D-Science-Project---beyond-static-research-communications/tree/main)
 <sup>**Status:** Project being planned </sup> <br>
 
-The main idea foe this project is to develop a work environment using Unreal Engine 5.x where is possible to work experimental data beyond a 2D spread sheet , in particular time dependent experimental data that requires motion graphics and animated chart plots.
+The main idea for this project is to develop a work environment using Unreal Engine 5.x where is possible to work experimental data beyond a 2D spreadsheet, in particular time-dependent experimental data that requires motion graphics and animated chart plots.
 
 <br>
 
 ## [Smart Asphalt Roads Project](https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/tree/main)
 <sup>**Status:** Project started </sup> <br>
 
-I've started preliminary work on my future project in the area of "self-sensing asphalt" for smart roads and highways. The very first task is to understand embedded wireless radio transmission into the surface of the asphalt road itself. This project is scheduled to resume next month of December, 2023.
+I've started preliminary work on my future project in the area of "self-sensing asphalt" for smart roads and highways. The very first task is to understand embedded wireless radio transmission into the surface of the asphalt road itself. This project is scheduled to resume next month July 2024.
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/blob/main/concept%20prototypes/concept%20prototype%20mockup%20with%20a%20UHF%20RFID%20noted%20tag.jpg"  height="200">
@@ -99,7 +99,7 @@ I've started preliminary work on my future project in the area of "self-sensing 
 ## [Rammed Earth Project](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki) 
 <sup>**Status:** Project started </sup> <br>
 
-I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embedded sensors in construction materials like this one. This project is scheduled to resume next month of December, 2023.
+I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embedded sensors in construction materials like this one. This project is scheduled to resume next month of May 2024.
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers_sensor_testitng.jpg"  height="200">
@@ -239,7 +239,7 @@ Make a donation on PayPal and get a TAX refund*.
 </p>
 
 ### Support all these open hardware projects and become a GitHub sponsor  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
+Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
