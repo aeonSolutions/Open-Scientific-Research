@@ -99,7 +99,7 @@ I've started preliminary work on my future project in the area of "self-sensing 
 ## [Rammed Earth Project](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki) 
 <sup>**Status:** Project started </sup> <br>
 
-I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embedded sensors in construction materials like this one. This project is scheduled to resume next month of May 2024.
+I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embedded sensors in construction materials like this one. This project is scheduled to resume next month May 2024.
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers_sensor_testitng.jpg"  height="200">
@@ -110,6 +110,7 @@ I've started preliminary works on my future project in the area of "rammed earth
 # Ongoing Projects
 
 ## [Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://aeonsolutions.github.io/products/smart_data_acquisition/index.html)
+**current project Total: > 8000 work.h** <br>
 <sup>**Status:** Ongoing Project </sup> <br>
 
 This Sci. research presents an innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed smart DAQ device prototype has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse.
@@ -138,9 +139,11 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 # Completed Projects
 
 ## [Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector](https://aeonsolutions.github.io/publications/human-centered-logistics-construction)
-<sup>**Status:** Project Completed </sup> <br>
+**current project Total: > 4200 work.h** <br>
+<sup>**■ Status:** Project Completed &nbsp;&nbsp;&nbsp;&nbsp;  ~2 million euros invoiced  &nbsp;&nbsp;&nbsp;&nbsp; more than 70 construction workers under my supervision
+</sup> <br>
 
-*being peer reviewed for publication in a Journal*
+*being peer-reviewed for publication in a Journal*
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/raw/main/Designs/anroid_app.jpg" height="100">
@@ -153,6 +156,7 @@ continue reading [here ...](https://aeonsolutions.github.io/publications/human-c
 <br />
 
 ## [A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites](https://aeonsolutions.github.io/publications/neural-network-self-sensing-carbon-fiber-composites)
+**current project Total: > 4000 work.h** <br>
 <sup>**Status:** Project Completed </sup> <br>
 
 **A Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware ElectronicsA Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware Electronics** 
