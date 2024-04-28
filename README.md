@@ -39,7 +39,7 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
 2024 <br>
 ■ Invited to be a reviewer for the Journal Smart Materials and Structures 4.1 I.F. <br>
 "Research on wireless monitoring system and algorithm for preload force utilizing machine learning and electromechanical impedance" <br>
-■ Invited to be a reviewer for the International Journal of Mathematical, Engineering and Management Sciences <br>
+■ Invited to be a reviewer for the International Journal of Mathematical, Engineering and Management Sciences 1.6 I.F. <br>
 "Human-Centered Software Engineering: Rethinking the Interplay of Human-Computer Interaction and Software Engineering in the Age of Digital Transformation"<br>
 <br>
 2023 <br>
