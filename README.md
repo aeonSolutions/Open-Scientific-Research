@@ -34,8 +34,14 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
 <br>
 
 ### Peer reviews
-**36 peer review records of 32 manuscripts**  <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
+**37 peer review records of 33 manuscripts**  <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
 
+2024 <br>
+■ Invited to be a reviewer for the Journal Smart Materials and Structures 4.1 I.F. <br>
+"Research on wireless monitoring system and algorithm for preload force utilizing machine learning and electromechanical impedance" <br>
+■ Invited to be a reviewer for the International Journal of Mathematical, Engineering and Management Sciences <br>
+"Human-Centered Software Engineering: Rethinking the Interplay of Human-Computer Interaction and Software Engineering in the Age of Digital Transformation"<br>
+<br>
 2023 <br>
 ■ Invited to be a reviewer for the Physica Scripta J. 2.9 I.F. <br>
 "Distributed Fiber Optic Acoustic Sensing System intrusion full event recognition based on 1-D MFEWnet" <br>
