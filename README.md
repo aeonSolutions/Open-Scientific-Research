@@ -51,7 +51,7 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
 "A machine learning based prediction of elasto-plastic response of a short fiber reinforced polymer (SFRP) composite" <br>
 ■ Invited to be a reviewer for the 18th IBPSA International Conference and Exhibition Building Simulation 2023 Shanghai, China ( https://bs2023.org ) <br>
 
-[Continue to view](https://github.com/aeonSolutions/Open-Scientific-Research/wiki/List-of-Peer-Reviews-Made) a list of peer reviews I made .....
+[Continue to view](https://github.com/aeonSolutions/Open-Scientific-Research/wiki/List-of-Peer-Reviews-Made) a list of peer reviews I made and contributions to advance open scientific research....
 
 <br>
 
