@@ -19,7 +19,7 @@
 
 <div align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/Open-Scientific-Research?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-Last update 01-06-2024
+Last update 11-06-2024
 </div>
 
 <br>
@@ -51,7 +51,7 @@ View a List of laboratory test procedures on the WIKI of this page. Link on the 
 "A machine learning based prediction of elasto-plastic response of a short fiber reinforced polymer (SFRP) composite" <br>
 ■ Invited to be a reviewer for the 18th IBPSA International Conference and Exhibition Building Simulation 2023 Shanghai, China ( https://bs2023.org ) <br>
 
-[Continue to view](https://github.com/aeonSolutions/Open-Scientific-Research/wiki/List-of-Peer-Reviews-Made) a list of peer reviews I made and contributions to advance open scientific research....
+[Continue to view](https://github.com/aeonSolutions/Open-Scientific-Research/wiki/List-of-Peer-Reviews-Made) a list of peer reviews and contributions I made to this date to advance open scientific research...
 
 <br>
 
