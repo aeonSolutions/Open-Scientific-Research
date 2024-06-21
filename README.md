@@ -102,6 +102,10 @@ Thank you.
     </a>
 </p>
 
+### Learn How to do Science
+Do you want to learn how to do science and how to learn the scientific method? Here's one of many suggestions to start doing it: ""Writing a scientific article: A step-by-step guide for beginners"" available on the Elsevier website:
+https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606
+
 <br>
 
 # Planned Projects
