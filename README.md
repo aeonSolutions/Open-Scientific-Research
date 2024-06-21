@@ -79,7 +79,7 @@ To be able to publish well in any Scientific Journal I strongly advise making av
 - Any Dataverse. See www.dataverse.org
 - on Zenodo
 - on Dryad
-- onFigShare
+- on FigShare
 - and many other data repository platforms. 
 
 ### As Data Notes 
