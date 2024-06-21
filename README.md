@@ -28,14 +28,14 @@ Last update 21-06-2024
 
 Open science is a transformative approach to research and knowledge dissemination that emphasizes transparency, collaboration, and accessibility. It encourages scientists and researchers to make their work, including data, methodologies, and findings, openly available to the public and the global scientific community. This not only fosters greater trust in the scientific process but also accelerates the pace of discovery by enabling others to build upon and validate existing research. Open science promotes interdisciplinary collaboration and reduces duplication of efforts, ultimately leading to more robust and reproducible scientific results. By breaking down barriers to access, open science democratizes knowledge, making it available to a wider audience, thus benefiting society as a whole. It represents a significant shift in the way science is conducted and shared, ushering in an era of more inclusive and accountable research. <sub>(*source: chat.openai.com*)</sub>
 
-[Vist my open science showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true) <br>
-View a List of laboratory test procedures on the WIKI of this page. Link on the menu above and [here](https://github.com/aeonSolutions/Open-Scientific-Research/wiki).
-
 ### How I do my scientific research
-For the past 4 years now, I've been conceptualizing and prototyping open hardware electronics for Smart Data Acquisition Devices (S.D.A.D.) capable of sending, in real-time, experimental data collected from a single specimen/sample directly to a "data repository". Not only that, these smart DAQs are able to authenticate and sign each individual data record in such a way that I am able to argue on any of my research documents and publications, that research data is from a trustworthy origin. The setup is simple: one S.D.A.D. for each individual specimen/sample connected to a swarm of devices capable of collecting and sending experimental data in real-time to a repository . To learn more about this project I invite the reader to [click here](https://aeonsolutions.github.io/products/smart_data_acquisition/index.html) to open the project's repository here on GitHub. This is an open scientific project where anyone is invited to participate and collaborate. 
+For the past 4 years now, I've been conceptualizing and prototyping open hardware electronics for Smart Data Acquisition Devices (S.D.A.D.) capable of sending, in real-time, experimental data collected from a single specimen/sample directly to a "data repository". Not only that, these smart DAQs are able to authenticate and sign each individual data record in such a way that I am able to argue on any of my research documents and publications, that research data is from a trustworthy origin. The setup is simple: one S.D.A.D. for each individual specimen/sample connected to a swarm of devices capable of collecting and sending experimental data in real time to a repository. To learn more about this project I invite the reader to [click here](https://aeonsolutions.github.io/products/smart_data_acquisition/index.html) to open the project's repository here on GitHub. This is an open scientific project where anyone is invited to participate and collaborate. 
 
  This is how I want my science to happen. to minimize possible questioning and distrust of data origins and how it was collected and stored during an experimental campaign I set up and supervised. 
- 
+
+ [Vist my open science showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true) <br>
+View a List of laboratory test procedures on the WIKI of this page. Link on the menu above and [here](https://github.com/aeonSolutions/Open-Scientific-Research/wiki).
+
 <br>
 
 ### Peer reviews
