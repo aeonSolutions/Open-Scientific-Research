@@ -31,7 +31,7 @@ Open science is a transformative approach to research and knowledge disseminatio
 [Vist my open science showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true) <br>
 View a List of laboratory test procedures on the WIKI of this page. Link on the menu above and [here](https://github.com/aeonSolutions/Open-Scientific-Research/wiki).
 
-### How i do my scientific research
+### How I do my scientific research
 For the past 4 years now, I've been conceptualizing and prototyping open hardware electronics for Smart Data Acquisition Devices (S.D.A.D.) capable of sending, in real-time, experimental data collected from a single specimen/sample directly to a "data repository". Not only that, these smart DAQs are able to authenticate and sign each individual data record in such a way that I am able to argue on any of my research documents and publications my research data is from a trustworthy origin. To learn more about this project I invite the reader to [click here](https://aeonsolutions.github.io/products/smart_data_acquisition/index.html) to open the project's repository here on GitHub. This is an open scientific project where anyone is invited to participate and collaborate. 
 
  This is how I want my science to happen. to minimize possible questioning and distrust of data origins and how it was collected and stored during an experimental campaign I set up and supervised. 
