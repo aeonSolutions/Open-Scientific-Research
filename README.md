@@ -74,7 +74,7 @@ For the past 4 years now, I've been conceptualizing and prototyping open hardwar
 <br>
 
 ## Data Repositories
-To be able to publish well in any Scientific Journal I strongly advise making available, from the start, all experimental data related to a document about to be sent for peer review and later for publication.
+To be able to publish well in any Scientific Journal I strongly advise making available, from the start, in a "data repository", all experimental data related to a document about to be sent for peer review and later for publication.
 - here on GitHub
 - Any Dataverse. See www.dataverse.org
 - on Zenodo
