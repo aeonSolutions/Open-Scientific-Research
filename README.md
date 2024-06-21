@@ -122,7 +122,7 @@ The main idea for this project is to develop a work environment using Unreal Eng
 ## [Smart Asphalt Roads Project](https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/tree/main)
 <sup>**Status:** Project started </sup> <br>
 
-I've started preliminary work on my future project in the area of "self-sensing asphalt" for smart roads and highways. The very first task is to understand embedded wireless radio transmission into the surface of the asphalt road itself. This project is scheduled to resume next month July 2024.
+I've started preliminary work on my future project in the area of "self-sensing asphalt" for smart roads and highways. The very first task is to understand embedded wireless radio transmission into the surface of the asphalt road itself. This project is scheduled to resume during the 4th trimester of 2024.
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/blob/main/concept%20prototypes/concept%20prototype%20mockup%20with%20a%20UHF%20RFID%20noted%20tag.jpg"  height="200">
@@ -133,7 +133,7 @@ I've started preliminary work on my future project in the area of "self-sensing 
 ## [Rammed Earth Project](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki) 
 <sup>**Status:** Project started </sup> <br>
 
-I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embedded sensors in construction materials like this one. This project is scheduled to resume next month May 2024.
+I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embedded sensors in construction materials like this one. This project is scheduled to resume during the 4th trimester of 2024..
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers_sensor_testitng.jpg"  height="200">
