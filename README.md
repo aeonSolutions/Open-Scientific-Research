@@ -63,13 +63,13 @@ For the past 4 years now, I've been conceptualizing and prototyping open hardwar
 ## Scientific Communications
 **6 documents published in international journals** <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
 
-&nbsp; [Click here](https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/scientific_writing/currently_working/readme.md) to view a list of ongoing scientific communications here on Github, I'm currently working on. 
+- [Click here](https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/scientific_writing/currently_working/readme.md) to view a list of ongoing scientific communications here on Github, I'm currently working on. 
 
-To read my ongoing scientific writing published at  Elsevier's SSRN, click [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5063472). <br>
+- To read my ongoing scientific writing published at  Elsevier's SSRN, click [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5063472). <br>
 
-&nbsp; To read any of my published scientific works in international journals to this date [click here](https://aeonsolutions.github.io/publications/index.html). <br>
+- To read any of my published scientific works in international journals to this date [click here](https://aeonsolutions.github.io/publications/index.html). <br>
 
-&nbsp; To View my open experimental data repository on Harvard's dataverse cloud server, click [here](https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse).  <br> 
+- To View my open experimental data repository on Harvard's dataverse cloud server, click [here](https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse).  <br> 
  
 <br>
 
