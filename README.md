@@ -68,6 +68,21 @@ To read my ongoing scientific writing published at  Elsevier's SSRN, click [here
  
 <br>
 
+## Data Repositories
+To be able to publish well in any Scientific Journal I strongly advise making available, from the start, all experimental data related to a document about to be sent for peer review and later for publication.
+- here on GitHub
+- Any Dataverse. See www.dataverse.org
+- on Zenodo
+- on Dryad
+- onFigShare
+- and many other data repository platforms. 
+
+### As Data Notes 
+- [Taylor and Frncis](https://authorservices.taylorandfrancis.com/data-sharing/share-your-data/data-notes/)
+- [F1000Research](https://think.f1000research.com/data-notes-2/)
+  
+
+<br>
 
 ### Sponsor Open Science [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 AeonLabs invests time and resources in providing open-source code and open hardware electronics, please support purchasing Aeonlabs products!  or by becoming a GitHub sponsor. Starts with only $1 / 1€. Links at the top, bottom, and right side pane.  <br>
