@@ -34,17 +34,19 @@ For the past 4 years now, I've been conceptualizing and prototyping open hardwar
  This is how I want my science to happen. to minimize possible questioning and distrust of data origins and how it was collected and stored during an experimental campaign I set up and supervised. For more information about this growing concern, read "[Why Most Published Research Findings Are False](https://en.wikipedia.org/wiki/Why_Most_Published_Research_Findings_Are_False#:~:text=Ioannidis%27s%20theoretical%20model%20fails%20to,%2C%20not%20greater%20than%2050%25.)". 
 
  [Vist my open science showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true) <br>
-View a List of laboratory test procedures on the WIKI of this page. Link on the menu above and [here](https://github.com/aeonSolutions/Open-Scientific-Research/wiki).
+You can view a list of laboratory test procedures on the WIKI on this page. The link is on the menu above and [here](https://github.com/aeonSolutions/Open-Scientific-Research/wiki).
 
 <br>
 
 ### Peer reviews
-**41 peer review records of 33 manuscripts**  <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [     <img
+**41 peer review records of 34 manuscripts**  <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [     <img
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/> ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
 
 2024 <br>
+■ Invited to be a reviewer for the Physica Scripta J. 2.6 I.F. <br>
+"Brillouin and Raman Distributed Fiber Optic Sensing based on Machine Learning Techniques: A Review"
 ■ Invited to be a reviewer for the Journal Smart Materials and Structures 4.1 I.F. <br>
 "Research on wireless monitoring system and algorithm for preload force utilizing machine learning and electromechanical impedance" <br>
 ■ Invited to be a reviewer for the International Journal of Mathematical, Engineering and Management Sciences 1.6 I.F. <br>
