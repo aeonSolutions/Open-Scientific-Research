@@ -88,7 +88,7 @@ To be able to publish well in any Scientific Journal I strongly advise making av
 - and many other data repository platforms. 
 
 ### As Data Notes 
-- [Taylor and Frncis](https://authorservices.taylorandfrancis.com/data-sharing/share-your-data/data-notes/)
+- [Taylor and Francis](https://authorservices.taylorandfrancis.com/data-sharing/share-your-data/data-notes/)
 - [F1000Research](https://think.f1000research.com/data-notes-2/)
   
 
