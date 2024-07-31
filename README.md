@@ -46,7 +46,7 @@ You can view a list of laboratory test procedures on the WIKI on this page. The 
 
 2024 <br>
 ■ Invited to be a reviewer for the Physica Scripta J. 2.6 I.F. <br>
-"Brillouin and Raman Distributed Fiber Optic Sensing based on Machine Learning Techniques: A Review"
+"Brillouin and Raman Distributed Fiber Optic Sensing based on Machine Learning Techniques: A Review" <br>
 ■ Invited to be a reviewer for the Journal Smart Materials and Structures 4.1 I.F. <br>
 "Research on wireless monitoring system and algorithm for preload force utilizing machine learning and electromechanical impedance" <br>
 ■ Invited to be a reviewer for the International Journal of Mathematical, Engineering and Management Sciences 1.6 I.F. <br>
