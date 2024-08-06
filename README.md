@@ -63,6 +63,8 @@ You can view a list of laboratory test procedures on the WIKI on this page. The 
 
 [Continue to view](https://github.com/aeonSolutions/Open-Scientific-Research/wiki/List-of-Peer-Reviews-Made) a list of peer reviews and contributions I made to this date to advance open scientific research...
 
+Available [here](https://github.com/aeonSolutions/AeonLabs--Writing-Styles-Classification-Using-Stylometric-Analysis), an intelligent system that takes a single document and classifies different writing styles within the document using stylometric analysis, that is worth having a run in python. 
+
 <br>
 
 ## Scientific Communications
