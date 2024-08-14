@@ -25,7 +25,7 @@ Last update 05-08-2024
 <br>
 
 # Open Scientific Research
-
+<sup> by AeonLabs </sup> <br>
 Open science is a transformative approach to research and knowledge dissemination that emphasizes transparency, collaboration, and accessibility. It encourages scientists and researchers to make their work, including data, methodologies, and findings, openly available to the public and the global scientific community. This not only fosters greater trust in the scientific process but also accelerates the pace of discovery by enabling others to build upon and validate existing research. Open science promotes interdisciplinary collaboration and reduces duplication of efforts, ultimately leading to more robust and reproducible scientific results. By breaking down barriers to access, open science democratizes knowledge, making it available to a wider audience, thus benefiting society as a whole. It represents a significant shift in the way science is conducted and shared, ushering in an era of more inclusive and accountable research. <sub>(*source: chat.openai.com*)</sub>
 
 ### How I do my scientific research
