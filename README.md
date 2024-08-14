@@ -14,7 +14,7 @@
    <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/open_science_lab.png" width="100%">
 </p>
 
- [Open Science Research Projects](https://github.com/aeonSolutions/Open-Scientific-Research) >> Main 
+**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >> Main Page - open Scientific Research
 
 
 <div align="right">
