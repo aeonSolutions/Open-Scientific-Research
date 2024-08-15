@@ -6,9 +6,8 @@
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lg7xdm3wvd3237y06ujl" alt="trackgit-views" />
 </a>
 ![](https://views.whatilearened.today/views/github/aeonSolutions/Open-Scientific-Research.svg)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/fork)
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
+
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/open_science_lab.png" width="100%">
@@ -119,7 +118,7 @@ Thank you.
     </a>
 </p>
 
-### Learn How to do Science
+### Learn How to do Science [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 Do you want to learn how to do science and how to learn the scientific method? Here's one of many suggestions to start doing it: ""Writing a scientific article: A step-by-step guide for beginners"" available on the Elsevier website:
 https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606
 
