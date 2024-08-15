@@ -24,6 +24,8 @@ Last update 05-08-2024
 
 <br>
 
+<div align="justify">
+
 ## Welcome to AeonLabs's Open Scientific Research
 <sup> by [AeonLabs](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md) <br>
  [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) ready to use. </sup>
@@ -308,3 +310,5 @@ Did you like any of my PCB KiCad Designs? Help and Support my open work to all b
 ## License
 
 Before proceeding to download any of AeonLab's open-source code for software solutions and/or open hardware electronics for smart devices and data acquisition make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Open Source Code](https://github.com/aeonSolutions/aeonSolutions/wiki/AeonLabs-Licensing) for more information. For commercial business solutions contact AeonLabs ℹ️ using the contacts above. Thank you 🙏.
+
+</div>
