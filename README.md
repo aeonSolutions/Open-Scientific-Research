@@ -24,8 +24,16 @@ Last update 05-08-2024
 
 <br>
 
-# Open Scientific Research
-<sup> by AeonLabs </sup> <br>
+## Welcome to AeonLabs's Open Scientific Research
+<sup> by [AeonLabs](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md) <br>
+ [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) ready to use. </sup>
+
+░ ░[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototyping of open technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). To learn more about AeonLabs [click here](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md).
+
+<div align="center">
+@@@@@@
+</div> <br>
+
 Open science is a transformative approach to research and knowledge dissemination that emphasizes transparency, collaboration, and accessibility. It encourages scientists and researchers to make their work, including data, methodologies, and findings, openly available to the public and the global scientific community. This not only fosters greater trust in the scientific process but also accelerates the pace of discovery by enabling others to build upon and validate existing research. Open science promotes interdisciplinary collaboration and reduces duplication of efforts, ultimately leading to more robust and reproducible scientific results. By breaking down barriers to access, open science democratizes knowledge, making it available to a wider audience, thus benefiting society as a whole. It represents a significant shift in the way science is conducted and shared, ushering in an era of more inclusive and accountable research. <sub>(*source: chat.openai.com*)</sub>
 
 ### How I do my scientific research
