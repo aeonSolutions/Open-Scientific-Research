@@ -43,7 +43,7 @@ For the past 4 years now, I've been conceptualizing and prototyping open hardwar
  This is how I want my science to happen. to minimize possible questioning and distrust of data origins and how it was collected and stored during an experimental campaign I set up and supervised. For more information about this growing concern, read "[Why Most Published Research Findings Are False](https://en.wikipedia.org/wiki/Why_Most_Published_Research_Findings_Are_False#:~:text=Ioannidis%27s%20theoretical%20model%20fails%20to,%2C%20not%20greater%20than%2050%25.)". 
 
  [Vist my open science showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true) <br>
-You can view a list of laboratory test procedures on the WIKI on this page. The link is on the menu above and [here](https://github.com/aeonSolutions/Open-Scientific-Research/wiki).
+You can view a list of laboratory test procedures on the WIKI on this page. The link is on the menu above and [here](https://github.com/aeonSolutions/Open-Scientific-Research/wiki). <br>
 Visit [my profile on Elsevier's SSRN preprint platform](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5063472). 
 <br>
 
