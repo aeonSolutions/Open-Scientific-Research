@@ -25,7 +25,7 @@ Last update 05-08-2024
 
 <div align="justify">
 
-## Welcome to AeonLabs's Open Scientific Research
+## Welcome to Open Scientific Research
 <sup> by [AeonLabs](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md) <br>
  [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) ready to use. </sup>
 
