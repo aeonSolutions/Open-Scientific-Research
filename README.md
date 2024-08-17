@@ -93,9 +93,9 @@ Available [here](https://github.com/aeonSolutions/AeonLabs--Writing-Styles-Class
 To be able to publish well in any Scientific Journal I strongly advise making available, from the start, in a "data repository", all experimental data related to a document about to be sent for peer review and later for publication.
 - here on GitHub
 - Any Dataverse. See www.dataverse.org
-- on Zenodo
-- on Dryad
-- on FigShare
+- on [Zenodo](https://zenodo.org)
+- on [Dryad](https://datadryad.org/stash)
+- on [FigShare](https://figshare.com)
 - and many other data repository platforms. 
 
 ### As Data Notes 
