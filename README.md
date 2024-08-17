@@ -102,6 +102,9 @@ To be able to publish well in any Scientific Journal I strongly advise making av
 - [Taylor and Francis](https://authorservices.taylorandfrancis.com/data-sharing/share-your-data/data-notes/)
 - [F1000Research](https://think.f1000research.com/data-notes-2/)
   
+### prePrint repositories
+- [Social Science Research Network (SSRN)](https://www.ssrn.com/)
+- [arXiv](https://arxiv.org)
 
 <br>
 
