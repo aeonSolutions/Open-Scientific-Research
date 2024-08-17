@@ -44,8 +44,7 @@ For the past 4 years now, I've been conceptualizing and prototyping open hardwar
 
  [Vist my open science showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true) <br>
 You can view a list of laboratory test procedures on the WIKI on this page. The link is on the menu above and [here](https://github.com/aeonSolutions/Open-Scientific-Research/wiki). <br>
-Visit [my profile on Elsevier's SSRN preprint platform](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5063472). 
-<br>
+
 
 ### Peer reviews
 **42 peer review records of 34 manuscripts**  <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [     <img
