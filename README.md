@@ -162,7 +162,7 @@ I've started preliminary works on my future project in the area of "rammed earth
 # Ongoing Projects
 
 ## [Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://aeonsolutions.github.io/products/smart_data_acquisition/index.html)
-**current project Total: > 8000 work.h** <br>
+**current project Total: > 8100 work.h** <br>
 <sup>**Status:** Ongoing Project </sup> <br>
 
 This Sci. research presents an innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed smart DAQ device prototype has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse.
