@@ -25,8 +25,7 @@ Last update 05-08-2024
 
 <div align="justify">
 
-## Welcome to Open Scientific Research
-<sup> by [AeonLabs](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md) <br>
+## Welcome to Open Scientific Research <sub> by [AeonLabs](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  </sub>
  [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) ready to use. </sup>
 
 ░ ░[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototyping of open technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). To learn more about AeonLabs [click here](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md).
