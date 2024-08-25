@@ -92,6 +92,23 @@ Available [here](https://github.com/aeonSolutions/AeonLabs--Writing-Styles-Class
 - To read any of my published scientific works in international journals to this date [click here](https://aeonsolutions.github.io/publications/index.html). <br>
 
 - To View my open experimental data repository on Harvard's dataverse cloud server, click [here](https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse).  <br> 
+
+<br>
+
+## Academia Community
+My participation in the Academia Community in the [Stack Exchange platform ](https://academia.stackexchange.com/users/134607/miguel-tomás?tab=summary).
+- [The manuscript does not reach the required quality standard of this journal [duplicate]](https://academia.stackexchange.com/questions/162679/the-manuscript-does-not-reach-the-required-quality-standard-of-this-journal)
+- [What to do when a reviewer questions the writing style of your scientific research paper?](https://academia.stackexchange.com/questions/175536/what-to-do-when-a-reviewer-questions-the-writing-style-of-your-scientific-resear)
+- [How can I improve my scientific article when the peer review process was so short on feedback? [closed]](https://academia.stackexchange.com/questions/170784/how-can-i-improve-my-scientific-article-when-the-peer-review-process-was-so-shor)
+- [How to learn the language writing requirements for a specific Journal before submitting a paper for reviewing [duplicate]](https://academia.stackexchange.com/questions/162716/how-to-learn-the-language-writing-requirements-for-a-specific-journal-before-sub)
+
+<br>
+
+- [Publishing a paper with questionable statistics](https://academia.stackexchange.com/questions/161932/publishing-a-paper-with-questionable-statistics/162030#162030)
+- [Why write papers anonymously?](https://academia.stackexchange.com/questions/13782/why-write-papers-anonymously/175699#175699)
+- [Is it legal to ask an intern to write a peer-review report?](https://academia.stackexchange.com/questions/161995/is-it-legal-to-ask-an-intern-to-write-a-peer-review-report/161998#161998)
+- [Should I include web pages in the references](https://academia.stackexchange.com/questions/161980/should-i-include-web-pages-in-the-references/162001#162001)
+- [Is it rude to ask my PhD student to give a daily report?](https://academia.stackexchange.com/questions/212349/is-it-rude-to-ask-my-phd-student-to-give-a-daily-report/212394#212394)
  
 <br>
 
