@@ -96,7 +96,7 @@ Available [here](https://github.com/aeonSolutions/AeonLabs--Writing-Styles-Class
 <br>
 
 ## Academia Community
-My participation in the Academia Community in the [Stack Exchange platform ](https://academia.stackexchange.com/users/134607/miguel-tomás?tab=summary).
+My participation in the *Academia Community* in the [Stack Exchange platform ](https://academia.stackexchange.com/users/134607/miguel-tomás?tab=summary).
 - [The manuscript does not reach the required quality standard of this journal [duplicate]](https://academia.stackexchange.com/questions/162679/the-manuscript-does-not-reach-the-required-quality-standard-of-this-journal)
 - [What to do when a reviewer questions the writing style of your scientific research paper?](https://academia.stackexchange.com/questions/175536/what-to-do-when-a-reviewer-questions-the-writing-style-of-your-scientific-resear)
 - [How can I improve my scientific article when the peer review process was so short on feedback? [closed]](https://academia.stackexchange.com/questions/170784/how-can-i-improve-my-scientific-article-when-the-peer-review-process-was-so-shor)
