@@ -60,20 +60,22 @@ You can view a list of laboratory test procedures on the WIKI on this page. The 
         alt="ORCID iD icon"/> ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
 
 2024 <br>
-■ Invited to be a reviewer for the Physica Scripta J. 2.6 I.F. <br>
-"Brillouin and Raman Distributed Fiber Optic Sensing based on Machine Learning Techniques: A Review" <br>
-■ Invited to be a reviewer for the Journal Smart Materials and Structures 4.1 I.F. <br>
-"Research on wireless monitoring system and algorithm for preload force utilizing machine learning and electromechanical impedance" <br>
-■ Invited to be a reviewer for the International Journal of Mathematical, Engineering and Management Sciences 1.6 I.F. <br>
-"Human-Centered Software Engineering: Rethinking the Interplay of Human-Computer Interaction and Software Engineering in the Age of Digital Transformation"<br>
+■ Invited to be a reviewer for the Journal [Engineering Research Express](https://iopscience.iop.org/journal/2631-8695) 1.5 I.F. hosted by [IOP Science](https://iopscience.iop.org/) <br>
+"*The effect of dynamic shock load on the adhesion strength of fiber reinforced composite plates*" <br>
+■ Invited to be a reviewer for the [Journal Physica Scripta](https://iopscience.iop.org/journal/1402-4896) 2.6 I.F. hosted by [IOP Science](https://iopscience.iop.org/)<br>
+"*Brillouin and Raman Distributed Fiber Optic Sensing based on Machine Learning Techniques: A Review*" <br>
+■ Invited to be a reviewer for the [Journal Smart Materials and Structures](https://iopscience.iop.org/journal/0964-1726) 4.1 I.F. hosted by [IOP Science](https://iopscience.iop.org/)<br>
+"*Research on wireless monitoring system and algorithm for preload force utilizing machine learning and electromechanical impedance*" <br>
+■ Invited to be a reviewer for the [Journal International Journal of Mathematical, Engineering and Management Sciences](https://www.ijmems.in) 1.6 I.F. hosted by [Ram Arti Publishers](https://ramartipublishers.com) <br>
+"*Human-Centered Software Engineering: Rethinking the Interplay of Human-Computer Interaction and Software Engineering in the Age of Digital Transformation*" <br>
 <br>
 2023 <br>
-■ Invited to be a reviewer for the Physica Scripta J. 2.9 I.F. <br>
-"Distributed Fiber Optic Acoustic Sensing System intrusion full event recognition based on 1-D MFEWnet" <br>
-■ Invited to be a reviewer for the Engineering Research Express J. 1.7 I.F. <br>
-"Intelligent Passive Infrared Sensor-based Learning Vector Quantization for Human Detection" <br>
-■ Invited to be a reviewer for the Journal Modelling and Simulation in Materials Science and Engineering <br>
-"A machine learning based prediction of elasto-plastic response of a short fiber reinforced polymer (SFRP) composite" <br>
+■ Invited to be a reviewer for the [Journal Physica Scripta](https://iopscience.iop.org/journal/1402-4896) 2.9 I.F. hosted by [IOP Science](https://iopscience.iop.org/)<br>
+"*Distributed Fiber Optic Acoustic Sensing System intrusion full event recognition based on 1-D MFEWnet*" <br>
+■ Invited to be a reviewer for the Journal [Engineering Research Express](https://iopscience.iop.org/journal/2631-8695) 1.7 I.F. hosted by [IOP Science](https://iopscience.iop.org/) <br>
+"*Intelligent Passive Infrared Sensor-based Learning Vector Quantization for Human Detection*" <br>
+■ Invited to be a reviewer for the [Journal Modelling and Simulation in Materials Science and Engineering](https://iopscience.iop.org/journal/0965-0393)  1.9 I.F. hosted by [IOP Science](https://iopscience.iop.org/) <br>
+"*A machine learning based prediction of elasto-plastic response of a short fiber reinforced polymer (SFRP) composite*" <br>
 ■ Invited to be a reviewer for the 18th IBPSA International Conference and Exhibition Building Simulation 2023 Shanghai, China ( https://bs2023.org ) <br>
 
 [Continue to view](https://github.com/aeonSolutions/Open-Scientific-Research/wiki/List-of-Peer-Reviews-Made) a list of peer reviews and contributions I made to this date to advance open scientific research...
