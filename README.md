@@ -85,7 +85,7 @@ Available [here](https://github.com/aeonSolutions/AeonLabs--Writing-Styles-Class
 <br>
 
 ## Scientific Communications
-**6 documents published in international journals** <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] [[G. Scholar](https://scholar.google.com/citations?user=IkngnVcAAAAJ&hl=en)] [ResearchGate](https://www.researchgate.net/profile/Miguel-Silva-9/research)<br>
+**6 documents published in international journals** <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] [ [G. Scholar](https://scholar.google.com/citations?user=IkngnVcAAAAJ&hl=en) ] [ [ResearchGate](https://www.researchgate.net/profile/Miguel-Silva-9/research) ]<br>
 
 - [Click here](https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/scientific_writing/currently_working/readme.md) to view a list of ongoing scientific communications here on Github, I'm currently working on. 
 
