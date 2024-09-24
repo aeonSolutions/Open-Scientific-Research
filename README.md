@@ -52,6 +52,13 @@ For the past 4 years now, I've been conceptualizing and prototyping open hardwar
  [Vist my open science showcase page on Linkedin](https://www.linkedin.com/showcase/open-scientific-research-by-miguel-tomas/?viewAsMember=true) <br>
 You can view a list of laboratory test procedures on the WIKI on this page. The link is on the menu above and [here](https://github.com/aeonSolutions/Open-Scientific-Research/wiki). <br>
 
+<br>
+
+### Learn How to do Science [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+Do you want to learn how to do science and how to learn the scientific method? Here's one of many suggestions to start doing it: ""Writing a scientific article: A step-by-step guide for beginners"" available on the Elsevier website:
+https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606
+
+<br>
 
 ### Peer reviews
 **43 peer review records of 35 manuscripts**  <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [     <img
@@ -131,7 +138,37 @@ To be able to publish well in any Scientific Journal I strongly advise making av
 - [Social Science Research Network (SSRN)](https://www.ssrn.com/)
 - [arXiv](https://arxiv.org)
 
+###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library)  [Dataverse API C++ library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
+**current project Total: > 300 work.h** <br>
+**current version: 0.5** <br>
+<sup>**Status:** Ongoing Project </sup> <br>
+
+The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
+
+<p align="center">
+  <a href="https://dataverse.org">
+      <img src="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png"  height="100">
+  </a>
+</p>
+  
 <br>
+
+###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-github-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-github-api-c-library) [GitHub API C++ library](https://github.com/aeonSolutions/AeonLabs-GitHub-API-C-library)
+**current project Total: > 50 work.h** <br>
+**current version: 0.5** <br>
+<sup>**Status:** Ongoing Project </sup> <br>
+
+GitHub is an open-source* web application to share, preserve, cite, explore, and analyze all types of files and data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. 
+
+<p align="center">
+  <a href="https://dataverse.org">
+      <img src="https://github.com/aeonSolutions/AeonLabs-GitHub-API-C-library/blob/main/media/github_c%2B%2B_library_logo.jpg"  height="100">
+  </a>
+</p>
+  
+<br>
+
+#
 
 ### Sponsor Open Science [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 AeonLabs invests time and resources in providing open-source code and open hardware electronics, please support purchasing Aeonlabs products!  or by becoming a GitHub sponsor. Starts with only $1 / 1€. Links at the top, bottom, and right side pane.  <br>
@@ -145,10 +182,6 @@ Thank you.
         <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
     </a>
 </p>
-
-### Learn How to do Science [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-Do you want to learn how to do science and how to learn the scientific method? Here's one of many suggestions to start doing it: ""Writing a scientific article: A step-by-step guide for beginners"" available on the Elsevier website:
-https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606
 
 <br>
 
@@ -200,37 +233,6 @@ These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices
 </p>
 
 <br>
-
-##  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library)  [Dataverse API C++ library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
-**current project Total: > 300 work.h** <br>
-**current version: 0.5** <br>
-<sup>**Status:** Ongoing Project </sup> <br>
-
-The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
-
-<p align="center">
-  <a href="https://dataverse.org">
-      <img src="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png"  height="100">
-  </a>
-</p>
-  
-<br>
-
-##  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-github-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-github-api-c-library) [GitHub API C++ library](https://github.com/aeonSolutions/AeonLabs-GitHub-API-C-library)
-**current project Total: > 50 work.h** <br>
-**current version: 0.5** <br>
-<sup>**Status:** Ongoing Project </sup> <br>
-
-GitHub is an open-source* web application to share, preserve, cite, explore, and analyze all types of files and data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. 
-
-<p align="center">
-  <a href="https://dataverse.org">
-      <img src="https://github.com/aeonSolutions/AeonLabs-GitHub-API-C-library/blob/main/media/github_c%2B%2B_library_logo.jpg"  height="100">
-  </a>
-</p>
-  
-<br>
-
 
 # Completed Projects
 
