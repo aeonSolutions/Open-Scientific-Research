@@ -216,7 +216,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
   
 <br>
 
-##  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library)  [GitHub API C++ library](https://github.com/aeonSolutions/AeonLabs-GitHub-API-C-library)
+##  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-github-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-github-api-c-library) [GitHub API C++ library](https://github.com/aeonSolutions/AeonLabs-GitHub-API-C-library)
 **current project Total: > 50 work.h** <br>
 **current version: 0.5** <br>
 <sup>**Status:** Ongoing Project </sup> <br>
