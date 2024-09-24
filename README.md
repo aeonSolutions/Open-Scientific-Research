@@ -221,7 +221,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 **current version: 0.5** <br>
 <sup>**Status:** Ongoing Project </sup> <br>
 
-GitHub is an open-source* web application to share, preserve, cite, explore, and analyze all types of files and data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
+GitHub is an open-source* web application to share, preserve, cite, explore, and analyze all types of files and data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. 
 
 <p align="center">
   <a href="https://dataverse.org">
