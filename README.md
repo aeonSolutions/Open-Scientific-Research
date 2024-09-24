@@ -19,7 +19,7 @@
 <div align="right">
    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
  <a href="https://github-com.translate.goog/aeonSolutions/Open-Scientific-Research?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-Last update 06-09-2024
+Last update 24-09-2024
 </div>
 
 <br>
@@ -215,6 +215,22 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 </p>
   
 <br>
+
+##  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library)  [Dataverse API C++ library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
+**current project Total: > 50 work.h** <br>
+**current version: 0.5** <br>
+<sup>**Status:** Ongoing Project </sup> <br>
+
+GitHub is an open-source* web application to share, preserve, cite, explore, and analyze all types of files and data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
+
+<p align="center">
+  <a href="https://dataverse.org">
+      <img src="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png"  height="100">
+  </a>
+</p>
+  
+<br>
+
 
 # Completed Projects
 
