@@ -13,6 +13,8 @@
    <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/open_science_lab.png" width="100%">
 </p>
 
+<img src="https://s11.flagcounter.com/count/VGh/bg_FFFFFF/txt_000000/border_FFFFFF/columns_8/maxflags_16/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+
 **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >> Main Page - Open Scientific Research
 
 
