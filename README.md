@@ -63,12 +63,14 @@ https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606
 <br>
 
 ### Peer reviews
-**43 peer review records of 35 manuscripts**  <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [     <img
+**44 peer review records of 36 manuscripts**  <br> &nbsp;&nbsp; [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [     <img
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/> ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
 
 2024 <br>
+■ Invited to be a reviewer for the [Journal Smart Materials and Structures](https://iopscience.iop.org/journal/0964-1726) 4.1 I.F. hosted by [IOP Science](https://iopscience.iop.org/)<br>
+
 ■ Invited to be a reviewer for the Journal [Engineering Research Express](https://iopscience.iop.org/journal/2631-8695) 1.5 I.F. hosted by [IOP Science](https://iopscience.iop.org/) <br>
 "*The effect of dynamic shock load on the adhesion strength of fiber reinforced composite plates*" <br>
 ■ Invited to be a reviewer for the [Journal Physica Scripta](https://iopscience.iop.org/journal/1402-4896) 2.6 I.F. hosted by [IOP Science](https://iopscience.iop.org/)<br>
