@@ -21,7 +21,7 @@
 <div align="right">
    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
  <a href="https://github-com.translate.goog/aeonSolutions/Open-Scientific-Research?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-Last update 03-11-2024
+Last update 31-12-2024
 </div>
 
 <br>
